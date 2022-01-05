@@ -1,0 +1,10 @@
+{
+  "AWSEBDockerrunVersion": "1",
+  "Image": {
+    "Name": "jessocxz98/wigged-out-cat"
+  },
+  "Ports":
+    {
+      "ContainerPort": "3000"
+    }
+}
