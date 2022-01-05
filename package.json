@@ -1,0 +1,24 @@
+{
+  "name": "hello-cloud-world",
+  "version": "1.0.0",
+  "description": "Jack, Jessica and Hotu",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ClaimingCookie5/hello-cloud-world.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ClaimingCookie5/hello-cloud-world/issues"
+  },
+  "homepage": "https://github.com/ClaimingCookie5/hello-cloud-world#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "path": "^0.12.7"
+  }
+}
